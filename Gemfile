@@ -1,5 +1,7 @@
 source 'http://rubygems.org'
 
+gem 'bundler', '1.0.18'
+
 gem 'rails', '3.1.0'
 
 gem 'sqlite3', '1.3.4'

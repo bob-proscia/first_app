@@ -113,6 +113,7 @@ PLATFORMS
 
 DEPENDENCIES
   bcrypt-ruby
+  bundler (= 1.0.18)
   coffee-rails
   jquery-rails
   rails (= 3.1.0)
